@@ -17,6 +17,7 @@ The Movie Recommendation System provides recommendations to users based on the s
 <li>Backend: Python</li>
 <li>Libraries: Pandas, Scikit-learn, Streamlit</li>
 </ul>
+
 ## Contributors
 <ul>
 <li>Member 1: [Name (GitHub: @s)](https://github.com/sula15)</li>
